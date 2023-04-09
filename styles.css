@@ -1,0 +1,30 @@
+body {
+
+    margin: 50px;
+  }
+  h1 {
+
+    font-family: verdana;
+  font-size: 300%;
+  margin: 50px;
+  text-align: center;
+
+  }
+
+  h3 {
+
+    font-family: verdana;
+  font-size: 300%;
+  margin: 50px;
+  text-align: center;
+
+  }
+  p {
+
+    font-family: verdana;
+    font-size:150%;
+    margin: 50px;
+    text-align: center;
+
+
+  }
